@@ -286,7 +286,7 @@ Dataset not included in repository due to size. Pre-trained models are provided 
 - ✅ **6% improvement** over IJCAI 2017 paper baseline
 - ✅ Handles **99.99% sparsity** effectively
 - ✅ Production-ready API with **interactive UI**
-- ✅ Deployed on **Hugging Face Spaces** (free tier)
+- ✅ Deployed on **Hugging Face Spaces**
 
 ---
 
@@ -295,3 +295,4 @@ Dataset not included in repository due to size. Pre-trained models are provided 
 - Inspired by IJCAI 2017 paper on Social and Sequential Modeling
 - Epinions dataset from Shopping.com
 - Built as part of academic research project at UC San Diego
+
